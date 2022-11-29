@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.6.15)  29 NOV 2022 14:23
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.6.15)  29 NOV 2022 16:06
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -579,21 +579,21 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has b
 l.47 \newpage
               [1] [2] (./cours.aux)
 Package rerunfilecheck Info: File `cours.out' has not changed.
-(rerunfilecheck)             Checksum: 11D16C2371172D2EE2BAA2C51FFCB730;718.
+(rerunfilecheck)             Checksum: 3B63AD9AB412E75A247222D177D9751B;1361.
  ) 
 Here is how much of TeX's memory you used:
- 17646 strings out of 478268
- 299344 string characters out of 5846347
- 650122 words of memory out of 5000000
- 35609 multiletter control sequences out of 15000+600000
+ 17656 strings out of 478268
+ 299517 string characters out of 5846347
+ 654126 words of memory out of 5000000
+ 35615 multiletter control sequences out of 15000+600000
  480871 words of font info for 49 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,11n,81p,372b,451s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfcc1440.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfcc1728.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfcc2074.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb>
-Output written on cours.pdf (3 pages, 124137 bytes).
+Output written on cours.pdf (3 pages, 131093 bytes).
 PDF statistics:
- 91 PDF objects out of 1000 (max. 8388607)
- 67 compressed objects within 1 object stream
- 9 named destinations out of 1000 (max. 500000)
- 33 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 112 PDF objects out of 1000 (max. 8388607)
+ 88 compressed objects within 1 object stream
+ 13 named destinations out of 1000 (max. 500000)
+ 65 words of extra memory for PDF output out of 10000 (max. 10000000)
 

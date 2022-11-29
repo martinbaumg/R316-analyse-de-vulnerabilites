@@ -60,6 +60,27 @@ les options disponibles. On peut par exemple faire \textbf{dig +trace} pour voir
 l'historique des requêtes DNS. On peut aussi faire \textbf{dig +short} pour n'afficher
 que les résultats. 
 
+\subsubsection{La commande NSLOOKUP}
+La commande \textbf{nslookup} permet de faire des requêtes DNS. On peut par exemple
+faire \textbf{nslookup uha.fr} pour récupérer les informations DNS du domaine \textbf{uha.fr}.
+On peut aussi faire \textbf{nslookup -type=mx uha.fr} pour récupérer les serveurs
+mail du domaine \textbf{uha.fr}.
+
+\subsubsection{La commande WHOIS}
+La commande \textbf{whois} permet de récupérer les informations d'enregistrement d'un domaine.
+On peut par exemple faire \textbf{whois uha.fr} pour récupérer les informations d'enregistrement
+du domaine \textbf{uha.fr}. On peut aussi faire \textbf{whois -h whois.ripe.net uha.fr} pour
+récupérer les informations d'enregistrement du domaine \textbf{uha.fr} sur le serveur
+\textbf{whois.ripe.net}.
+
+\subsection{Le scan de réseaux}
+\subsubsection{La commande NMAP}
+La commande \textbf{nmap} permet de scanner un réseau. Si on teste la commande :
+\textbf{nmap -sUV -F 192.168.2.23}, on peut voir que la commande \textbf{nmap} permet de scanner
+un réseau en utilisant les protocoles UDP, TCP et ICMP.
+
+
+
 
 
 \end{document}
